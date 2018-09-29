@@ -1,4 +1,4 @@
-<!--index.wxml111111-->
+<!--index.wxml2222222222222-->
 <view class="container">
   <view class="userinfo">
     <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
